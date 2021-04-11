@@ -1,0 +1,6 @@
+create table sample (dept int,total_pay int,title int,basepay int,attendence int,leaves int);
+insert into sample values(1,1500,1,1000,10,20);
+insert into sample values(1,1500,2,1000,20,10);
+insert into sample values(1,1500,3,2000,20,10);
+insert into sample values(1,2500,2,2000,20,5);
+insert into sample values(1,1500,2,2000,30,10);
